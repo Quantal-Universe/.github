@@ -38,18 +38,18 @@ An advanced automated agricultural monitoring platform integrating IoT telemetry
 *   **Tech Stack:** Firebase, Python/C++, IoT Sensor Arrays.
 *   **Key Features:** Real-time sensor monitoring, live data visualization dashboards, and automated irrigation triggers.
 
-### 💻 [MiniOS](https://github.com/Codemaster-AR/MiniOS)
-A fully client-side web simulation of a terminal-driven workspace and graphical user environment with a fluid design language.
-*   **Tech Stack:** HTML5, JavaScript (Node.js backend), CSS Grid.
-*   **Key Features:** Window orchestration, built-in functional calculator, and a secure mock terminal terminal runtime.
+### 💻 [GPR Hub](https://github.com/Quantal-Universe/GPR-Hub)
+A script that determines and predicts what a GPR image could be (Experimental)
+*   **Tech Stack:** Python, HTML5 & Machine Learning.
+*   **Key Features:** Simple identification through a trained AI model.
 
-### 🛰 [Aurora-Biospace](https://github.com/Codemaster-AR/Aurora-Biospace)
+### 🛰 [Aurora-Biospace](https://github.com/Quantal-Universe/Aurora-BioSpace)
 An AI-driven analytics dashboard utilizing NASA's bioscience public APIs to process space biology and environment telemetry.
 *   **Tech Stack:** React, Python, Public Scientific APIs.
 *   **Key Features:** Automated research processing and customized pipelines for deep-space physiological datasets.
 
 ### 🛡 Unified Single Sign-On (SSO)
-Our custom internal identity provider infrastructure engineered to secure and link core self-hosted communication platforms under a centralized authentication engine.
+Our custom internal identity provider infrastructure is engineered to secure and link core self-hosted communication platforms under a centralized authentication engine.
 *   **Subdomains Securing:** `user.quantal-labs.com` handles authorization flow across `git.quantal-labs.com` and secure chat nodes.
 *   **Security:** Cryptographically signed session handshakes, strict token management, and point-to-point encryption.
 
@@ -59,7 +59,7 @@ Our custom internal identity provider infrastructure engineered to secure and li
 We strongly believe in decentralization and self-hosting our development environments. Our internal testing and deployment servers leverage:
 *   **Languages:** Python, JavaScript (Node.js/React), C++, Bash, Swift.
 *   **Virtualization & Hosting:** Docker containers, Forgejo Git services, WSL environments.
-*   **Networking:** Cloudflare Tunnels (`cloudflared`) and secure reverse-proxies for edge routing.
+*   **Networking:** Cloudflare Tunnels (`cloudflared`) and secure reverse proxies for edge routing.
 *   **Design Paradigm:** Modern UI/UX implementation utilizing frosted glass overlays (Glassmorphism), deep dark themes, and high-visibility glow highlights.
 
 ---
